@@ -3,7 +3,7 @@
 📫 You can reach me via email ( haaristoor1@gmail.com )
 
 
-I will update as soon as time permits. Thanks!
+I will update this file as soon as time permits. Thanks!
 
 <!---
 - 👀 I’m interested in ...

@@ -2,6 +2,7 @@
 
 📫 You can reach me via email ( haaristoor1@gmail.com )
 
+@Interminuz-Precizion is alt acc (connected via IntelliJ IDEA)
 
 I will update this file as soon as time permits. Thanks!
 

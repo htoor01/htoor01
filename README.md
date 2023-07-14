@@ -4,7 +4,7 @@
 
 @Interminus-Precizion is alt acc (connected via IntelliJ IDEA)
 
-I will update this file as soon as time permits. Thanks!
+I will update this file as soon as possible. Thanks!
 
 <!---
 - 👀 I’m interested in ...

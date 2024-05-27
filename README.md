@@ -1,6 +1,4 @@
-👋 Hi, I’m @htoor01 ( Mr. Haaris Toor )
-
-📫 You can reach me via email ( haaristoor1@gmail.com )
+👋 Hi, I’m @htoor01 (Mr. Haaris B. Toor). Reach me by email (haaristoor1@gmail.com) or phone (732-810-3220).
 
 @Interminus-Precizion is alt acc (connected via IntelliJ IDEA)
 

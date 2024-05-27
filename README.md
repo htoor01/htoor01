@@ -1,6 +1,6 @@
-👋 Hi, I’m @htoor01 (Mr. Haaris B. Toor). Reach me by email (haaristoor1@gmail.com) or phone (732-810-3220).
+👋 Hi, I’m @htoor01 (Mr. Haaris Toor). Reach me quickly via email (haaristoor1@gmail.com).
 
-@Interminus-Precizion is alt acc (connected via IntelliJ IDEA)
+@Interminus-Precizion is my acc (connected via IntelliJ IDEA)
 
 I will update this file as soon as possible. Thanks!
 

@@ -2,8 +2,6 @@
 
 @Interminus-Precizion is my acc (connected via IntelliJ IDEA)
 
-I will update this file as soon as possible. Thanks!
-
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

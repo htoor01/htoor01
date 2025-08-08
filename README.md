@@ -3,9 +3,9 @@
 I am currently a student in Rutgers University - New Brunswick, studying Computer Science (Major) and Economics (Minor).
 
 Below is a Table of Contents for projects and repositories:
-1.
-2.
-3.
+1. (soon)
+2. (soon)
+3. (soon)
 <!--
 **htoor01/htoor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

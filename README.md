@@ -1,6 +1,6 @@
 ## Hi there, I'm Mr. Haaris Toor 👋
 
-I am currently a student in Rutgers University - New Brunswick, studying Computer Science (Major) and Economics (Minor).
+Rutgers University - New Brunswick, studying Computer Science (Major) and Economics (Minor).
 <!--
 **htoor01/htoor01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

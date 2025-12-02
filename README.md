@@ -2,7 +2,7 @@
 
 I'm an aspiring Software Engineer looking for new challenges and connections.
 
-I'm currently a student at Rutgers University studying Computer Science (Major) and Economics (Minor). I'm also working on a simple platformer game to test my end-to-end (design to deployment) understanding. I'm also working on a few other projects on the side to continuously hone my software development skills. If you're interested in hearing more, please reach out!
+I'm currently a student at Rutgers University studying Computer Science (Major) and Economics (Minor). In addition to my studies, I'm working on a few other projects on the side to continuously hone my software development skills. I'm currently making a simple platformer game to test my end-to-end (design to deployment) skills. If you're interested in hearing more, please reach out!
 
 I'm well-versed in various languages and tools, including Javascript (and Typescript), Python, Java, C++, SQL, MongoDB, Git, Docker, and AWS. I'm particularly advanced in Javascript frameworks and libraries (Express.js, Next.js, Node.js, React). I've also previously worked with Java (Spring Boot), and Python (NumPy, Pandas, PyGame).
 

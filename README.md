@@ -7,14 +7,14 @@
 <p><a href="https://www.haaristoor.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/haaristoor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:haaristoor1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://discord.com/users/1366254228321996830">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,flask,docker,githubactions,aws,sqlite,linux,git" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,spring,flask,docker,githubactions,aws,sqlite,linux,git" alt="Stack" />
 </p>
 
 </div>
 
 I build backend services and the pipelines that ship them.
 
-I was a founding engineer at **[Lotari](https://lotari.ai)**, building TypeScript and AWS services for legal-tech SaaS used by enterprise law firms. I'm now volunteering for **[Public Invention](https://github.com/pubinv)**, where I work on the backend for the Librecorder project.
+I was a founding engineer at **[Lotari](https://lotari.ai)**, building TypeScript and AWS services for legal-tech SaaS used by law firms. I'm now volunteering for **[Public Invention](https://github.com/pubinv)**, where I work on the Python and Flask backend for the Librecorder project.
 
 Open to **SWE backend and infrastructure** intern or new-grad roles.
 

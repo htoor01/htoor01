@@ -31,7 +31,7 @@ Open to **SWE backend and infrastructure** intern or new-grad roles.
 
 ---
 
-## Some things I've built...
+## Some things I've built or contributed to...
 
 | Name | Description | Tech Stack |
 |:--|:--|:--|

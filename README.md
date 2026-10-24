@@ -14,7 +14,7 @@
 
 I build backend services and the pipelines that ship them.
 
-I was a founding engineer at **[Lotari](https://lotari.ai)**, building TypeScript and AWS services for legal-tech SaaS used by law firms. I'm now volunteering for **[Public Invention](https://github.com/pubinv)**, where I work on the Python and Flask backend for the Librecorder project.
+I was a founding engineer at **[Lotari](https://lotari.ai)**, building TypeScript and AWS services for legal-tech SaaS built for law firms. I'm now volunteering for **[Public Invention](https://github.com/pubinv)**, where I work on the Python and Flask backend for the Librecorder project.
 
 Open to **SWE backend and infrastructure** intern or new-grad roles.
 

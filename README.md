@@ -18,9 +18,8 @@
 # Some projects
 | Name | Description | Tech Stack |
 |:--|:--|:--|
-| [**AutoTA**](https://github.com/htoor01/auto-ta) | Grading 200+ Java submissions by hand took me 3–6 hours as a TA, so I automated it. It pulls submissions from Google Classroom, runs the instructor's JUnit tests in a Docker container, and returns suggested grades. Grading now (thankfully) takes ~30 minutes. | Java · Spring Boot · Docker · GitHub Actions |
-| [**Librecorder**](https://github.com/pubinv/librecorder) | Public Invention's open-source AI-powered diagnostic platform, inspired by Star Trek's "[Tricorder](https://en.wikipedia.org/wiki/Tricorder)". I'm refactoring the backend, adding CI tests, and rewriting our docs. | Python · Flask · pytest · GitHub Actions |
-| [**RU Afloat**](https://github.com/hassan1brahim/RUAfloat) | Built at [HackRU Fall 2026](https://devpost.com/software/ru-afloat) to get Rutgers students out of a flood: an 18-hour river forecast, routes to the nearest dry meetup spot around flooded roads, and a voice assistant. I built the student and admin views and step-free, read-aloud routing that avoids walks over 20 minutes. | TypeScript · MapLibre GL · ElevenLabs |
-| [**DermAI**](https://github.com/hassan1brahim/MTC-Hackathon) | Built at the [MTC Code for Impact Hackathon](https://devpost.com/software/dermai-fsxq17): upload a photo of your skin and get a condition classification, severity rating and recommendations, from a PyTorch model trained on Google's SCIN dataset. I built the backend's JWT auth, demographic health profiles and scan history API. | Python · Flask · PyTorch · React |
-
-Experience and more projects are on my **[portfolio](https://www.haaristoor.com)**.
+| [**AutoTA**](https://github.com/htoor01/auto-ta) | An autograder from my TA days. It pulls submissions from Google Classroom, runs the instructor's JUnit tests in a Docker container, and returns suggested grades. | Java · Spring Boot · Docker · GitHub Actions |
+| [**Librecorder**](https://github.com/pubinv/librecorder) | [Public Invention](https://pubinv.org)'s open-source AI-powered diagnostic platform designed for low-resource areas, inspired by Star Trek's "[Tricorder](https://en.wikipedia.org/wiki/Tricorder)". | Python · Flask · pytest · GitHub Actions |
+| [**RU Afloat**](https://github.com/hassan1brahim/RUAfloat) | Built at [HackRU Fall 2026](https://devpost.com/software/ru-afloat), an evacuation web app, in case the Raritan ever floods. | TypeScript · MapLibre GL · ElevenLabs |
+| [**DermAI**](https://github.com/hassan1brahim/MTC-Hackathon) | Built at the [MTC Code for Impact Hackathon](https://devpost.com/software/dermai-fsxq17), a skin condition classifier, trained on Google's SCIN dataset. | Python · Flask · PyTorch · React |
+| More to come soon... | Working on a variety of different projects, ranging from university incubator projects to a personal homelab. See more on my **[portfolio](https://www.haaristoor.com)**. | Mostly in Python |
